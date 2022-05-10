@@ -1,0 +1,57 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+
+   <meta charset="utf-8">
+   
+   <title> WorthlessInfo </title>
+   
+   <style>
+      
+      body {
+         background-color: rgb(180,180,180);
+      
+      }
+      
+      h3 {
+         background-color: black;
+         color: rgb(225,225,225);
+      }
+      
+      
+      
+   </style>
+
+     
+</head>
+
+<body>
+
+   <center>  <h3 style="font-family:verdana"> Welcome to the completely usless website! </h3>   </center>
+   
+<br>
+<br>
+
+   
+   <p style="font-family:verdana"> <center> ... </center> </p>
+   
+   <br>
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
